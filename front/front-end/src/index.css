@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes example {
+    0%   { left:0%; top:0px;}
+    25%  { top:-100px;}
+    100%{top:-100px}}
